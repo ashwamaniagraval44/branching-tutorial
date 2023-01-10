@@ -1,0 +1,1 @@
+jawa script is used for logical building in web devlopment
